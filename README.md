@@ -11,7 +11,7 @@ This project is a simple web crawler written in Python. It fetches and processes
 ├── main.py
 ├── requirements.txt
 ├── src
-│ ├── init.py
+│ ├── __init__.py
 │ └── crawler.py
 └── urls.json
 ```
