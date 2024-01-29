@@ -4,14 +4,17 @@ This project is a simple web crawler written in Python. It fetches and processes
 
 ## Project Structure
 
+```
+
 .
 ├── README.md
 ├── main.py
 ├── requirements.txt
 ├── src
-│ ├── **init**.py
+│ ├── init.py
 │ └── crawler.py
 └── urls.json
+```
 
 ## Setup
 
